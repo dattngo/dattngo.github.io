@@ -7,4 +7,4 @@ header:
 
 •	**Welcome**! I particularly investigate topics in the fields of machine learning/deep learning and signal processing for temporal signal analysis.
 
-•	My CV is available here
+•	My [CV](/images/[NgoThanhDat] Curriculum Vitae.pdf) is available here
