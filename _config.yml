@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Ngo Thanh Dat"
   avatar           : "/images/Bio_image.PNG" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning, Speech and Signal Processing."
+  bio              : "Machine Learning, Speech Recognition, Acoustic Signal Processing."
   location         : "HCMC, Vietnam"
   email            :
   links:
