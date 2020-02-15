@@ -5,6 +5,6 @@ header:
   image: "/images/ObMDaxk.jpg"
 ---
 
-•	**Welcome**! I particularly investigate topics in the fields of machine learning/deep learning and signal processing for temporal signal analysis.
+•	**Welcome**! I'm interested in Machine Learning and Deep Learning for Acoustic Scenes as well as for Speech recognition.
 
-•	My [CV](/images/[NgoThanhDat] Curriculum Vitae.pdf) is available here
+•	My [CV](/images/NgoThanhDat_CV.pdf) is available here

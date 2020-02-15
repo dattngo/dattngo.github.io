@@ -7,8 +7,8 @@ header:
 
 My current research activities involve in the following topics:
 
-  •	Deep learning/machine learning for temporal signal analysis
+  •	Machine Learning and Deep Learning for Acoustic Scenes
 
-  •	Audio event detection/classification
-  
+  •	Audio event detection and classification
+
   •	Speech analysis/ recognition
