@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ngo Thanh Dat"
+title                    : "Dat Ngo"
 title_separator          : "-"
-name                     : "Ngo Thanh Dat"
+name                     : "Dat "
 description              : "Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ngo Thanh Dat"
+  name             : "Dat Ngo"
   avatar           : "/images/Bio_image.PNG" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning, Speech Recognition, Acoustic Signal Processing."
+  bio              : "Machine Learning, Deep Learning, Hardware Architecture, Acoustic Signal Processing."
   location         : "Colchester, UK"
   email            :
   links:
